@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = commandhub.config.\
+    TestContainersSpringContextCustomizerFactory,commandhub.config.\
+    SqlTestContainersSpringContextCustomizerFactory,commandhub.config.\
+    KafkaTestContainersSpringContextCustomizerFactory

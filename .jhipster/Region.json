@@ -1,0 +1,14 @@
+{
+  "applications": "*",
+  "changelogDate": "20231106152158",
+  "entityTableName": "region",
+  "fields": [
+    {
+      "fieldName": "regionName",
+      "fieldType": "String"
+    }
+  ],
+  "name": "Region",
+  "relationships": [],
+  "service": "serviceImpl"
+}
